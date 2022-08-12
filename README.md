@@ -24,6 +24,8 @@ decoded = zwsp_steg.decode(encoded)
 
 print(decoded)  # hidden message
 ```
+See `example.py` for more examples.
+
 
 Note that decoding a message will ignore all non 'special' characters. That means if you hide your message within a readable string, and decode the whole string, you will only return the hidden message.
 
