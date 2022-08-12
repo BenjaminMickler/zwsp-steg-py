@@ -8,6 +8,7 @@ Every modification made by Benjamin Mickler and everything added by Benjamin Mic
 - added AES 128 bit encryption
 - added option to merge with string
 - added file handling options
+- added option to copy to clipboard
 
 ### Installation
 ```bash
